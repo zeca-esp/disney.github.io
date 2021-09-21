@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T15:57:34.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="7-p8HZwR-oC_7puDUgWY" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T16:03:20.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="y0ayFfKwD6fmv3ZRVXi3" version="15.2.9" type="github">
   <diagram id="8TIHdMgw7f7m4qareFLq" name="Page-1">
     <mxGraphModel dx="981" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,30 +62,30 @@
           <mxGeometry x="140" y="360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4vl9060Z3yc6cErM1NKJ-19" value="Laminação" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="300" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vl9060Z3yc6cErM1NKJ-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4vl9060Z3yc6cErM1NKJ-6" target="4vl9060Z3yc6cErM1NKJ-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="410" as="sourcePoint" />
             <mxPoint x="460" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="385" />
+              <mxPoint x="360" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4vl9060Z3yc6cErM1NKJ-21" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="360" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4vl9060Z3yc6cErM1NKJ-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.46;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4vl9060Z3yc6cErM1NKJ-3" target="6UsDdSZFErcFaP8cF_HN-15" edge="1">
+        <mxCell id="4vl9060Z3yc6cErM1NKJ-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4vl9060Z3yc6cErM1NKJ-3" target="6UsDdSZFErcFaP8cF_HN-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="10" as="sourcePoint" />
             <mxPoint x="474" y="-170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="465" y="-205" />
+              <mxPoint x="630" y="-205" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vl9060Z3yc6cErM1NKJ-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6UsDdSZFErcFaP8cF_HN-15" target="4vl9060Z3yc6cErM1NKJ-19" edge="1">
+        <mxCell id="4vl9060Z3yc6cErM1NKJ-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6UsDdSZFErcFaP8cF_HN-15" target="6UsDdSZFErcFaP8cF_HN-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="280" as="sourcePoint" />
             <mxPoint x="460" y="360" as="targetPoint" />
@@ -105,6 +105,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="560" as="sourcePoint" />
             <mxPoint x="460" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="470" />
+              <mxPoint x="440" y="470" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4vl9060Z3yc6cErM1NKJ-29" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4vl9060Z3yc6cErM1NKJ-25" target="4vl9060Z3yc6cErM1NKJ-5" edge="1">
@@ -443,7 +447,7 @@
           <mxGeometry x="150" y="-170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6UsDdSZFErcFaP8cF_HN-15" value="Apontar lote do vergalhão no GCF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-160" width="120" height="30" as="geometry" />
+          <mxGeometry x="570" y="-170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6UsDdSZFErcFaP8cF_HN-17" value="Máquina parou?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="-40" width="80" height="60" as="geometry" />
@@ -550,6 +554,113 @@
               <mxPoint x="360" y="290" />
               <mxPoint x="210" y="320" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-38" value="Laminar vergalhão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-39" value="Máquina parou?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-35" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-40" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-39" target="6UsDdSZFErcFaP8cF_HN-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="-15" as="sourcePoint" />
+            <mxPoint x="700" y="85" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="-5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-41" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-39" target="6UsDdSZFErcFaP8cF_HN-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="-15" as="sourcePoint" />
+            <mxPoint x="549" y="22" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-42" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-43" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-44" value="Adicionar novo lote de vergalhão?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="45" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-45" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-44" target="6UsDdSZFErcFaP8cF_HN-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="25" as="sourcePoint" />
+            <mxPoint x="620" y="165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-46" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="65" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-47" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-44" target="6UsDdSZFErcFaP8cF_HN-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="25" as="sourcePoint" />
+            <mxPoint x="780" y="165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-48" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="65" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-49" value="Apontar novo lote de vergalhão no GCF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-50" value="Ordem salva com um lote de vergalhão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-51" value="Ordem salva com um lote de vergalhão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-52" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-49" target="6UsDdSZFErcFaP8cF_HN-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="100" as="sourcePoint" />
+            <mxPoint x="780" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-53" value="Ordem salva com mais de um lote de vergalhão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-54" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="195" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-55" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="195" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-56" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="195" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="295" />
+              <mxPoint x="640" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6UsDdSZFErcFaP8cF_HN-57" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6UsDdSZFErcFaP8cF_HN-38" target="6UsDdSZFErcFaP8cF_HN-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="120" as="sourcePoint" />
+            <mxPoint x="410" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
