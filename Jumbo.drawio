@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T16:45:11.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="AWvR0lYULn5pGEJfPR8i" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T16:47:18.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="SU5K_4XJhkWlvK7pbQsd" version="15.2.9" type="github">
   <diagram id="-jqlK2HShlDgpVg_5iI9" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,6 +147,20 @@
         </mxCell>
         <mxCell id="gIoTXyc6dyrSa5WEzEs2-48" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#b1ddf0;sketch=1;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="340" y="670" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gIoTXyc6dyrSa5WEzEs2-52" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="150" as="sourcePoint" />
+            <mxPoint x="40" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="120" />
+              <mxPoint x="560" y="120" />
+              <mxPoint x="560" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIoTXyc6dyrSa5WEzEs2-53" value="Ordem xxxx rodando na máquina" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="120" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
